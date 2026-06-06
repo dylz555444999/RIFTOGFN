@@ -1,49 +1,93 @@
-# OG Rift - OG Fortnite Project
+# 🎮 OG Rift
 
-Welcome to **OG Rift**, a project focused on bringing back the classic Fortnite experience.
+Experience classic Fortnite with Rift Singleplayer.
 
-## 📥 Download
+---
+
+## 📥 Downloads
+
+### Rift Singleplayer
 
 **Download Rift:**
 https://rebrand.ly/Rift-Latest
 
-## ⚠️ Requirements
+### .NET Core 3.1 (Required)
 
-Before running Rift, you **must** have **.NET Core 3.1** installed.
+Rift requires **.NET Core 3.1** to run.
 
 **Download .NET Core 3.1:**
 https://rebrand.ly/DotNet-Sdk-Download
 
-## 📖 About
+---
 
-OG Rift aims to recreate the feel of old-school Fortnite for players who want to experience the early days of the game again.
+## ⚠️ Important Information
 
-### Important Notice
+> Rift Multiplayer has been indefinitely cancelled.
+>
+> This download is for **Rift Singleplayer only**.
 
-* Rift Multiplayer has been **indefinitely cancelled**.
-* The available download is for **Rift Singleplayer** only.
-* For more information regarding the cancellation, please read the relevant announcement in the community Discord server.
+For additional information regarding the multiplayer cancellation, please refer to the relevant announcement in the Rift community Discord server.
 
-## 🚀 Getting Started
+---
+
+## 📚 Fortnite Builds Archive
+
+Need archived Fortnite builds?
+
+Check out the Fortnite Builds Archive project:
+
+https://github.com/llamaqwerty/fortnite-builds-archive
+
+This repository contains a large collection of historical Fortnite build information and resources.
+
+---
+
+## 🚀 Installation
 
 1. Install .NET Core 3.1.
 2. Download the latest Rift release.
-3. Extract the files to a folder of your choice.
-4. Launch Rift and follow any setup instructions provided.
+3. Extract the downloaded files.
+4. Launch Rift.
+5. Enjoy the OG Fortnite experience.
 
-## 📂 Features
+---
 
-* Classic Fortnite experience
-* Singleplayer support
-* Easy setup
-* Community-driven project
+## ✨ Features
 
-## ⚠️ Disclaimer
+* 🏝️ Classic Fortnite gameplay
+* 🎯 Singleplayer support
+* ⚡ Quick and easy setup
+* 🔄 Active community support
+* 📦 Access to archived Fortnite build resources
 
-OG Rift is a fan-made project and is not affiliated with, endorsed by, or sponsored by Epic Games or Fortnite.
+---
 
-## ❤️ Community
+## 📋 Requirements
 
-Feedback, bug reports, and suggestions are always welcome.
+| Requirement      | Version          |
+| ---------------- | ---------------- |
+| Operating System | Windows 10/11    |
+| .NET Runtime     | .NET Core 3.1    |
+| Storage          | Depends on build |
 
-Enjoy reliving the OG Fortnite experience!
+---
+
+## ⚖️ Disclaimer
+
+OG Rift is a fan-made project and is not affiliated with, endorsed by, sponsored by, or associated with Epic Games, Fortnite, or any of their respective trademarks.
+
+---
+
+## ❤️ Credits
+
+* Rift Development Team
+* Fortnite Builds Archive Contributors
+* The OG Fortnite Community
+
+---
+
+## 🌟 Support
+
+If you encounter issues, have suggestions, or would like to contribute to the community, feel free to join the Rift community channels.
+
+Have fun revisiting the OG days of Fortnite!
